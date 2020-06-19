@@ -1,6 +1,6 @@
 # PCNSL-sex-specific
 
-This is the supplementary github-repository for the submitted manuscript "Sex-specific disparities in primary CNS lymphoma".
+This is the supplementary github-repository for the manuscript "Sex-Specific Differences in Primary CNS Lymphoma" (https://doi.org/10.3390/cancers12061593)
 
 # Included
 
